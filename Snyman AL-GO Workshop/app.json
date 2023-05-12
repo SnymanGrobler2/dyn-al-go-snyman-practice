@@ -1,0 +1,28 @@
+{
+  "id": "53281f35-4d59-4e78-9bb3-6f8dde0464a1",
+  "name": "Snyman AL-GO Workshop",
+  "publisher": "Snyman Grobler",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "19.0.0.0",
+  "idRanges": [
+    {
+      "from": 55000,
+      "to": 55500
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  }
+}
